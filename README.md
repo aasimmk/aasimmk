@@ -19,12 +19,6 @@ On the full-stack side I worked mainly in Django, with Vue and Nuxt on the front
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
 
-## Public projects
-
-- [django-fullstack-cookie-cutter](https://github.com/aasimmk/django-fullstack-cookie-cutter): a starting template for full-stack Django projects.
-- [img2txt](https://github.com/aasimmk/img2txt): extracts text from images with pytesseract, the Python wrapper for Google Tesseract.
-- [aws-iot-notifications](https://github.com/aasimmk/aws-iot-notifications): notifications for AWS IoT devices.
-
 Most of my current work is in private repositories due to data privacy.
 
 ## Elsewhere
